@@ -36,6 +36,17 @@
       "color": "黄色",
       "serial": "R5CW82ECK5L",
       "area": "辦公APP"
+    },
+    {
+      "code": "4",
+      "employeeId": "V2170086",
+      "name": "黄秋月",
+      "purpose": "辦公APP",
+      "brand": "Iphone",
+      "model": "13",
+      "color": "红色",
+      "serial": "G6TZX7ZSN70K",
+      "area": "辦公APP"
     }
   ]
 }
